@@ -40,5 +40,6 @@ HTML and CSS Tutorials on the w3schools (completed)
 ## Languages:
 1. English
 2. Russian 
+3. Belarussian
 
 
